@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Forked from `rpm-rs` at version 0.8.1.
+- Added vendor and repository optional fields to `RPMBuilder`.
 
 ### Fixed
 - Take dependabot updates
